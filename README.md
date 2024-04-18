@@ -1,8 +1,8 @@
-# El Camino de la Programación Funcional en JavaScript
+# Hacia Una Web Orientada a Componentes
 
 ### Keywords
 
-Web · Componentes · Composición · JavaScript
+Web · Componentes · Composición · Principios · Diseño · Arquitectura
 
 ### Resumen
 
